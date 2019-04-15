@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "reting": null,
+      "description" : null
+    },
+    {
+      "title": "Сексус-Плексус-Нексус",
+      "author": "Генри Миллер",
+      "reting": null,
+      "description" : null
+    }
+  ]
+}
