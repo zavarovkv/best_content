@@ -55,248 +55,272 @@
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Капитанская дочка",
+      "author": "Александр Пушкин",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Пикник на обочине",
+      "author": "Аркадий и Борис Стругацкие",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Трудно быть богом",
+      "author": "Аркадий и Борис Стругацкие",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "За миллиард лет до конца света",
+      "author": "Аркадий и Борис Стругацкие",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Лабиринт Отражений",
+      "author": "Сергей Лукьяненко",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Кривые зеркала",
+      "author": "Сергей Лукьяненко",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Я, Робот",
+      "author": "Айзек Азимов",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "451 по Фаренгейту",
+      "author": "Рей Бредбери",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Марсианские хроники",
+      "author": "Рей Бредбери",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "SAPIENS",
+      "author": "Ной Юваль Харари",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Думай медленно, решай быстро",
+      "author": "Даниел Канеман",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Физика невозможного",
+      "author": "Митио Каку",
+      "reting": 8.0,
+      "description" : null
+    },
+    {
+      "title": "Вы наверное шутите, мистер Фейнман",
+      "author": "Ричард Фейнман ",
+      "reting": 8.0,
+      "description" : null
+    },
+    {
+      "title": "Как писать книги",
+      "author": "Стивен Кинг",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Выходные всю неделю",
+      "author": "Рикардо Семлер",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Homo Deus",
+      "author": "Ной Юваль Харари",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Джим Стальная Крыса",
+      "author": "Гарри Гарсон",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Ариель",
+      "author": "Александр Беляев",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Человек-Амфибия",
+      "author": "Александр Беляев",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Гиперболоид Инженера Гарина",
+      "author": "Александр Беляев",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Чиполино",
+      "author": "Драни Радари",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Третья Экспедиция",
+      "author": "Рэй Бредбери",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Дом на краю света",
+      "author": "Майкл Каннингем",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Богач, бедняк",
+      "author": "Ирвин Шоу",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Шантарам",
+      "author": "Грегори Робертс",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Криптономикон",
+      "author": "Нил Стивенсон",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "По ту сторону добра и зла",
+      "author": "Фридрих Ницше",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Поднятая целина",
+      "author": "Михаил Шолохов",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Крайняя битва чекистов с масонами",
+      "author": "Виктор Пелевин",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "20000 лье под водой",
+      "author": "Жюль Верн",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Незнайка, Незнайка на Луне",
+      "author": "Николай Носов",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Лед номер 9 (Колыбель для кошки)",
+      "author": "Курт Воннегут",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Звездный десант",
+      "author": "Роберт Хайнлайн",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Идиот",
+      "author": "Федор Достоевский",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Рассказы",
+      "author": "Чехов",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Полное собрание сочинений",
+      "author": "Сергей Довлатов",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Автостопом по галактике",
+      "author": "Дуглас Адамс",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Тайный дневник девушки по вызову",
+      "author": "Бель дю жур",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Мертвые души",
+      "author": "Николай Гоголь",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Вечера на хуторе близ Диканьки",
+      "author": "Николай Гоголь",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Над пропастью во ржи",
+      "author": "Джером Селинжер",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Гамлет",
+      "author": "Уильям Шекспир",
       "reting": null,
       "description" : null
     },
     {
-      "title": "",
-      "author": "",
+      "title": "Ромео и Джульетта",
+      "author": "Уильям Шекспир",
+      "reting": null,
+      "description" : null
+    },
+    {
+      "title": "Розенкранц и Гильденстерн мертвы",
+      "author": "Том Стоппард",
+      "reting": null,
+      "description" : null
+    },
+    {
+      "title": "Изображая жертву",
+      "author": "Братья Пресняковы",
       "reting": null,
       "description" : null
     }
